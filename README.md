@@ -1,5 +1,5 @@
 # universityprojects_C
-Üniversitede yazdığım algoritma kodları C ve C++ üzerine yazılmıştır. Nesneye yönelimli kodları .dev uzantısı olanla çalıştırınız.
+Üniversitede yazdığım algoritma kodları C ve C++ üzerine yazılmıştır. Nesneye yönelimli yazılan kodları klasör içerisindeki .dev olanı çalıştırınız.
 BARDAK DEVİRME
 KREDİ HESAPLAMA
 KELİME OYUNU
